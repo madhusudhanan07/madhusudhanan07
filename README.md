@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a developer focused on creating real-world applications that solve practical problems. My projects span full-stack web development, generative AI integration, and data-driven platforms. I enjoy exploring different technology domains and applying what I learn to practical projects.
+I'm a developer focused on creating real-world applications that solve practical problems. My projects span full-stack web development, generative AI integration, and data-driven platforms. I enjoy[...] 
 
 Currently seeking internships and entry-level opportunities where I can apply my skills across software development, AI, automation, and business technology.
 
@@ -102,6 +102,7 @@ Civic engagement platform with dual-role dashboards for citizen issue reporting 
 
 **Why it stands out:** Demonstrates experience with component libraries, role-based access control, analytics dashboards, and structured frontend architecture.
 
+**Live:** [namma-madurai1.web.app](https://namma-madurai1.web.app)  
 **Code:** [GitHub](https://github.com/madhusudhanan07/Namma-Madurai)
 
 
