@@ -1,4 +1,4 @@
-# Madhusudhanan N A
+# MADHUSUDHANAN N A
 
 **Computer Science & Business Systems Student** | Software Development • AI • Automation • Business Technology
 
