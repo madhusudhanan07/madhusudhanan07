@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a developer focused on creating real-world applications that solve practical problems. My projects span full-stack web development, generative AI integration, and data-driven platforms. I enjoy[...] 
+I'm a developer focused on creating real-world applications that solve practical problems. My projects span full-stack web development, generative AI integration, and data-driven platforms. 
 
 Currently seeking internships and entry-level opportunities where I can apply my skills across software development, AI, automation, and business technology.
 
@@ -25,7 +25,9 @@ Currently seeking internships and entry-level opportunities where I can apply my
 ## Technical Skills
 
 ### Languages
-- **TypeScript**
+- **Java** — OOP, arrays, loops, problem-solving fundamentals
+- **Python** — Programming fundamentals, problem-solving
+- **TypeScript / JavaScript** — Application development
 
 ### Frontend
 - **React** (v18+, hooks, Context API, state management)
@@ -87,6 +89,24 @@ Full-stack e-commerce platform with product catalog, shopping cart, and order pr
 
 **Live:** [new-ecommerce-store.vercel.app](https://new-ecommerce-store.vercel.app)  
 **Code:** [GitHub](https://github.com/madhusudhanan07/CodeAlpha_E-commerce-store)
+
+---
+### AI Resume Pro
+AI-powered resume builder and converter with intelligent resume processing, customizable templates, and job-matching features.
+
+**Tech:** React 18 + TypeScript + Vite | Tailwind CSS + Shadcn/UI | Google Gemini & Groq AI | Firebase | PDF.js | Mammoth | Tesseract.js
+
+**Highlights:**
+- Conversational resume builder with step-by-step guidance and real-time preview
+- Multi-format resume parsing for PDF, DOCX, and image files using document parsing and OCR
+- 60+ customizable templates with multiple resume formats and PDF/DOCX export options
+- Gemini and Groq integration for AI-powered resume conversion and content processing
+- Resume scoring and job-matching features for analyzing resumes against target roles
+
+**Why it stands out:** Combines generative AI, document processing, and practical career-focused workflows into a single application. Demonstrates hands-on experience integrating AI and document-processing technologies into a user-focused product.
+
+**Live:** [ai-resume-maker-63dcf.web.app](https://ai-resume-maker-63dcf.web.app/)  
+**Code:** [GitHub](https://github.com/madhusudhanan07/ai-resume-pro)
 
 ---
 
